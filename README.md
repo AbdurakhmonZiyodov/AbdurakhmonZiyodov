@@ -34,8 +34,8 @@
 ## 📬 Contact Me
 
 - Email: abdurakhmonziyodov@gmail.com  
-- LinkedIn: *soon...*  
-- Telegram: [@abdurahmon_dev](https://t.me/abdurahmon_dev)
+- LinkedIn: [abdurakhmonziyodov](https://www.linkedin.com/in/abdurakhmonziyodov/)
+- Telegram: [@AbdurakhmonZiyodov](https://t.me/AbdurakhmonZiyodov)
 
 ---
 
