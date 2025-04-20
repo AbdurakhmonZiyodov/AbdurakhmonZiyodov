@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abdurakhmon Ziyodov
+# Hi 👋, I'm Abdurakhmon
 
 🚀 A passionate **React Native Mobile App Developer** from Uzbekistan  
 🎯 Focused on building smooth, fast, and beautiful mobile apps with **TypeScript**, **React Native**, and **Expo**  
