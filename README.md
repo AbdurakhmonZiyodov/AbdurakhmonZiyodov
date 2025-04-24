@@ -10,7 +10,7 @@
 
 ### 🌐 Web Development
 - ⚛️ React / Next.js / TypeScript / JavaScript  
-- 🎨 Tailwind CSS / Shadcn UI / CSS Modules  
+- 🎨 Tailwind CSS / Material UI / Ant Design / CSS Modules  
 - 🔌 REST API / GraphQL / Axios / React Query  
 - 🧰 Git / GitHub / ESLint / Prettier / Husky  
 
